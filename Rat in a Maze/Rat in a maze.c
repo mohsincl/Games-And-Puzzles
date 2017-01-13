@@ -1,4 +1,6 @@
-
+/*Rat in a Maze (Interactive without trail)(C)
+Developer: ABDUL MOHSIN SIDDIQI
+(Tested on GCC Compiler (Codeblocks)) */
 
 #include<stdio.h>
 #include<time.h>
